@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: TMaize Blog
-description: TMaize的个人博客
-keywords: TMaize,Blog,Java,Html,JavaScript
-author: TMaize
-footerText: 'Copyright © 2016 '
+title: ChengMengerlai Blog
+description: ChengMengerlai的个人博客
+keywords: ChengMengerlai,Blog,Java,Html,JavaScript
+author: ChengMengerlai
+footerText: 'Copyright © 2016 ChengMengerlai.GitHub.io'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
