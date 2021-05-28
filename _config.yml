@@ -56,7 +56,11 @@ extBaidu: true
 extMath: false
 
 # 友情链接
-links:
+links: 
+  - title: chengmengerlai
+    url: https://chengmengerlai.github.io
+
+
  
 
     
