@@ -13,6 +13,7 @@
 [JetBrains](https://www.jetbrains.com/?from=tmaize-blog) 免费提供的开发工具[![JetBrains](./static/img/jetbrains.svg)](https://www.jetbrains.com/?from=tmaize-blog)
 
 [夜间模式代码高亮配色](https://github.com/mgyongyosi/OneDarkJekyll)
+
 MIT License
 
 Copyright (c) 2019 TMaize
