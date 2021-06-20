@@ -8,6 +8,8 @@
 
 [夜间模式代码高亮配色](https://github.com/mgyongyosi/OneDarkJekyll)
 
+本博客修改自TMaize的博客。以下是原许可证：
+
 MIT License
 
 Copyright (c) 2019 TMaize
