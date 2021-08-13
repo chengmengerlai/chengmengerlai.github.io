@@ -5,7 +5,7 @@ title: 关于我
 
 > Hello, 陌生人，欢迎访问!
 
-该博客托管于 GitHub Page。
+该博客托管于 GitHub Pages。
 
 ## 联系我
 
